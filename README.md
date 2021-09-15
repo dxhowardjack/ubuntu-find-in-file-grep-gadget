@@ -7,7 +7,7 @@ it search for a clickable result list
 put treeview into /bin/
 
 simple usage:<br/>
-hgt.sh <key-word><br/>
+hgt.sh keyword<br/>
 find keyword in specific file *.c;*.h ('w' match whole word):<br/>
 hgt.sh keyword "w" "-name '*.c' -o -name '*.h'"
   
